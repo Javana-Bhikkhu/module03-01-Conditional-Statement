@@ -18,7 +18,7 @@ else{
 };
 
 
-
+/*
 var x = prompt("choose any number");
 
 switch(true){
@@ -57,7 +57,7 @@ switch(true){
     default:
         console.log("False,False");
 };
-
+*/
 
 
 
